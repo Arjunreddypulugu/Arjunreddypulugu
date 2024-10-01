@@ -3,13 +3,11 @@
 <h3 align="center">Transforming raw data into meaningful narratives</h3>
 <img align="right" alt="Coding" width="400" src="https://motivitylabs.com/wp-content/uploads/2022/11/4944103-1024x1024-1-1024x1024.jpg">
 
-- 🌱 I’m currently learning **Tensorflow, Pytorch and openCV**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Arjunreddypulugu](https://github.com/Arjunreddypulugu)
 
 - 📫 How to reach me **arjunreddy467@gmail.com**
 
-- ⚡ Fun fact **I dream with my eyes opened.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
