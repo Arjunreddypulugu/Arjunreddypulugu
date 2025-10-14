@@ -2,7 +2,6 @@
 
 ### Building robust data pipelines and transforming data into intelligent insights.
 
-<img align="right" alt="Coding" width="400" src="https://motivitylabs.com/wp-content/uploads/2022/11/4944103-1024x1024-1-1024x1024.jpg">
 
 I'm a **Data Analytics and Engineering** graduate student at **Northeastern University**, graduating in December 2025. My passion lies at the intersection of building scalable data systems and applying advanced analytical techniques to extract actionable insights.
 
