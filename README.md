@@ -7,7 +7,6 @@
 I'm a **Data Analytics and Engineering** graduate student at **Northeastern University**, graduating in December 2025. My passion lies at the intersection of building scalable data systems and applying advanced analytical techniques to extract actionable insights.
 
 - 🎓 **Education:** MS in Data Analytics and Engineering, Northeastern University (Boston).
-- 💼 **Experience:** Data Engineer Intern at VDRS, where I worked on [mention a key responsibility or achievement, e.g., developing ETL pipelines].
 - 📫 **Reach me at:** **pulugu.a@northeastern.edu**
 
 ---
